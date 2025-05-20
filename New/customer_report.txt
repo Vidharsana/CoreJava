@@ -1,0 +1,11 @@
+CustomerName           AccountNo                      Balance         CardNo
+Nathan Williamson                                        0.0                    
+Sharon Mata                                              0.0                    
+Richard Warner                                           0.0                    
+Dana Lloyd                                               0.0                    
+Mr. Stephen Thomas                                       0.0                    
+Willie Weber                                             0.0                    
+Gary Ramirez                                             0.0                    
+Jennifer Harmon                                          0.0                    
+Patricia Ward                                            0.0                    
+Judith Townsend                                          0.0                    
